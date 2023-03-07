@@ -1,5 +1,5 @@
 fun main() {
-    val limit = 100 // Change this to whatever limit you want
+    val limit = 100
     var a = 0
     var b = 1
     
